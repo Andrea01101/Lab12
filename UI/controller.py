@@ -26,3 +26,6 @@ class Controller:
 
     def handle_path(self, e):
         pass
+
+    def handle_pp(self):
+        pass
